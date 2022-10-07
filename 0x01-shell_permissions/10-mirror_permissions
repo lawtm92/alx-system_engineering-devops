@@ -1,3 +1,2 @@
 #!/bin/bash
 chmod --reference=olleh hello
-/*create file 'ollen' before gitting*/
